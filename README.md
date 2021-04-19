@@ -8,4 +8,4 @@ This API was made so I could learn about ASP.NET, and the creation of REST API's
 
 Created on: `1/31/21`  
 Skills learned: Learned about ASP.NET REST API's
-Project difficulty: 4/10
+Project difficulty: 6
